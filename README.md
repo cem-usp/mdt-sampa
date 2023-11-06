@@ -24,4 +24,4 @@ Depois de validados e ajustados a geoide, todo o território da cidade será pro
 
 ## Resultados
 
-Os resultados, a medida que forem gerados serão publicados em repositórios indicados aqui
+Os resultados, a medida que forem gerados serão publicados em repositórios indicados aqui.
